@@ -1,0 +1,59 @@
+{
+    "version": "1.1.2",   
+    "sourceName": "GBox官方源",     
+    "sourceAuthor": "Rosi",       
+    "sourceLinkTitle": "主页",     
+    "sourceLinkUrl": "https://gbox.run",      
+    "sourceImage": "http://xxx.com/src.png",   
+    "sourceUpdateTime": "2019-10-10T13:00:00+0800",    
+    "sourceDescription": "源的简单描述",
+    "appCategories": [
+        "福利",
+        "工具"
+    ],
+    "appRepositories": [
+        {
+           
+            "appType": "SHAREING",      
+            "appCateIndex": 0,     
+            "appUpdateTime": "2019-10-13T08:00:00+0800",
+            "appName": "App名称",
+            "appVersion": "1.1",    
+            "appImage": "https://xxx.com/app.png",     
+            "appPackage": "https://xx.com/app.ipa",     
+            "appDescription": "App的简短描述"
+        },
+
+        {
+            "appType": "ENT_SIGN",  
+            "appCateIndex": 1,      
+            "appUpdateTime": "2019-10-03T08:00:00+0800",
+            "appName": "xxx",
+            "appPlist": "https://xxx.plist"
+        },
+
+        {
+            "appType": "LINK", 
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-12-27T9:30:00+0800",
+            "appName": "GBox官网",
+            "appVersion": "1.0",
+            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/icon512.png",
+            "appLink": "https://gbox.run",  
+            "appDescription": "网页连接测试"
+        },
+
+        
+        {
+            "lock": true,                             
+            "hide": true,                             
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-05-01T08:00:00+0800",
+            "appName": "测试包",
+            "appVersion": "1.0",
+            "appPlist": "https://www.lanzous.com/i7rn4hi",
+            "appDescription": "签名测试用，点下载，然后签名，再安装，如果能正常打开，则证明签名成功"
+        }
+    ]
+}
