@@ -1,59 +1,16 @@
 {
-    "version": "1.1.2",   
-    "sourceName": "GBoxπŸ∑Ω‘¥",     
-    "sourceAuthor": "Rosi",       
-    "sourceLinkTitle": "÷˜“≥",     
-    "sourceLinkUrl": "https://gbox.run",      
-    "sourceImage": "http://xxx.com/src.png",   
-    "sourceUpdateTime": "2019-10-10T13:00:00+0800",    
-    "sourceDescription": "‘¥µƒºÚµ•√Ë ˆ",
-    "appCategories": [
-        "∏£¿˚",
-        "π§æﬂ"
-    ],
-    "appRepositories": [
-        {
-           
-            "appType": "SHAREING",      
-            "appCateIndex": 0,     
-            "appUpdateTime": "2019-10-13T08:00:00+0800",
-            "appName": "App√˚≥∆",
-            "appVersion": "1.1",    
-            "appImage": "https://xxx.com/app.png",     
-            "appPackage": "https://xx.com/app.ipa",     
-            "appDescription": "AppµƒºÚ∂Ã√Ë ˆ"
-        },
-
-        {
-            "appType": "ENT_SIGN",  
-            "appCateIndex": 1,      
-            "appUpdateTime": "2019-10-03T08:00:00+0800",
-            "appName": "xxx",
-            "appPlist": "https://xxx.plist"
-        },
-
-        {
-            "appType": "LINK", 
-            "appCateIndex": 1,
-            "appUpdateTime": "2019-12-27T9:30:00+0800",
-            "appName": "GBoxπŸÕ¯",
-            "appVersion": "1.0",
-            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/icon512.png",
-            "appLink": "https://gbox.run",  
-            "appDescription": "Õ¯“≥¡¨Ω”≤‚ ‘"
-        },
-
-        
-        {
-            "lock": true,                             
-            "hide": true,                             
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-            "appUpdateTime": "2020-05-01T08:00:00+0800",
-            "appName": "≤‚ ‘∞¸",
-            "appVersion": "1.0",
-            "appPlist": "https://www.lanzous.com/i7rn4hi",
-            "appDescription": "«©√˚≤‚ ‘”√£¨µ„œ¬‘ÿ£¨»ª∫Û«©√˚£¨‘Ÿ∞≤◊∞£¨»Áπ˚ƒ‹’˝≥£¥Úø™£¨‘Ú÷§√˜«©√˚≥…π¶"
-        }
-    ]
+  "appCategories" : [
+    "‰∏™‰∫∫",
+    "ËØÅ‰π¶",
+    "ËΩØ‰ª∂IPA"
+  ],
+  "sourceUpdateTime" : "2020-10-02T17:51+0800",
+  "sourceAuthor" : "Â∞èÁ±≥12923",
+  "sourceLinkUrl" : "http:\/\/taoancuts.mysxl.cn",
+  "sourceDescription" : "Â∞èÁ±≥12923ÁöÑGBoxÊ∫êÔΩû",
+  "version" : "1.0",
+  "sourceName" : "Â∞èÁ±≥12923ÂÆòÊñπÊ∫ê",
+  "sourceLinkTitle" : "‰∏™‰∫∫ÁΩëÁ´ô",
+  "sourceImage" : "https:\/\/xs1.imd.im\/avatar\/200828\/cy0rLBsJR.jpg",
+  "appRepositories" : "AwGF9d9Frmscp7dn0AqzWc\/8u8HfWp+O\/wbNuIXTUpSaU9IfMQolv7SzuUeApiYb\/bhX8\/SVz5B+8pmREjuMmWsEdIMNntNa4RDpiMVV65lqqVQFACuWKjs054OWOn\/ALE0xSyAI0EnJkrnhV3MA0IuI98Wj0QJU5h\/j6v+K+YOtDHUpjV35W8KDK3x1MD67bAOYpWx9H+ZKytJjxmkOjY+Dd6wuOdC5km1rryaGQbKY60h2RngwJSq9EjKmFMCLs+Mk4qRGmq4OurxUR3kmEWYn3fO\/FML6PhpmPEBCYwoXKWpgUlvs5mdE13GRGPll\/i0D9zws49BURJsdDfadgpE2r3Bf30LtXUPETKtsPu2LsE4oF3MfrVHrSoZY2v\/eGTnwA3VOtwFHQV5LfSQD9APSii1CC+ZEEzUYGZutAEpGX5xUZsU\/Xa4UNlvhdBY0x5BBfMpQeQAmhKS6\/b3doYSNXaNYNCM5\/PpZ8ifw8YSwsV2FbU2lWCA9AL5Zoy7Pu8+9lTYx6TQl5Hz\/ZVNk9DpMNE1SvRHMbYvJQ6nxYp5OTmjePTIqaiq84W1gBQ1gSozyUjbyiCZ3pKKYcbxIMjPvmFuRy45tnPGrCYkWOE4F0U+XdxrXs\/69tpQoWyVafOQ4vnSPtimN8SuAZu8q3KDI5hfuZsDQTDT83vdjmkzeMRsqMsjJn5R+vMPNHfL290y3oOBPs2RxQs0iWjhAI\/zUy8hjo7DjhB\/xoKUDyjeZ5wlT9alKxGdQuT7Dc6HWe0BHHBzjvbMCTb3rKZbpSFrbNX+oDqUvziM0J1Ylxkauy2LKHHsevNmu0jBQ1BcGPJEzCUsvT9QBkEDdz5QAQnQoD\/mT9SfRuXLvNRDVIIo\/iTbB+aLrRehmpx7LU8GfDHwbLIL8OIq5XQsTroidAkjgVTr0byU0cs5uRdTgIBpMhrkVKYJ89M4R0\/MPIAGr62\/exRYfSbLZgTIMjiayGUsgrJ0YJm4Ay\/wkjOkOdFMc8arC7UuCu5xq56c5U79\/nun6uKDS1gBy73Gpy+3ZYCLNVtrIIRbDPf9AwHrLm1RIifjrFI+FGzn818szwBrOfYz+msU6ly0ta7k2jmPflLsodE5RoubL1SO8wNwEfbRW2czd0utUcUui9ppbxf2dookmhZ7IifK66PmZwfCTogRACw77sj2Kano72c0mg7cQEUnjgXhkq9kgWtkL6hLE53Jiew3VNvZcNa1l4tsS6L1hCkCrKurN8l0HAu+rTSGBiezdDwmOd1UTJ3h+CrAXf2Qd40P8lsXxg1hsPldGRyKb5p5+orWgxLw3xQLx2Ls4XKfF0IGm4AaoykxHfCu3kzi5cZuS5H0+LrSUXJNLZSv5+omu1unbmWSgmXW8WFyyaG8nq2N0cGjItvGb5jVdH5J\/HrNR3LQHPGDnwB52Cbh0\/8+pes3qhb7BsaltuSnLnJpilI3+PmYxYGcUiDwVUvBL35CA2N4jF4htjrCsiLTS\/t3kGyteBGrkH5mD+Os\/41r99aEDjFFHv5HdrfnGQOcA6HuR+a5Bf7ah\/QcJvhNHvU0d0+CyemtHjVZ8+767Ra5ZB9izs8o8eX4otnTmhX2Vq+wX6mBDubYwwePdqISstdu7GoHLswvMqCGZ0x5a3J0czYH5W0IWQLdtiwYriEBE1SEjNxapBdXVWGWYo4L+p39dgM\/qKhJ+wCdn7GrF1RnMg9Bb0zw3VtUKwVNDMiJYQcPaOZPfDbaxuMVxEYYblnn1PD4ViDbAvlX19XfBquH1gCXd\/95oI80q\/B8PjgJzHx\/a4oh21Gj1QJ2ZhkobFMN5rRk\/xkGclv1YPjNaEFe5JuUghI322fxJpVtyBPv7FUw2bNbA5U5lN2mM+9QtcUxhP45WgkdnYMiqpCH9YvfNjmMFkVcpJX49JlxwbHwPLUkI+m8qIFRLi0a6kzQl5q23icdphuCWPbPrWLKTznl\/\/S1emPVNMe9YPGiSLOb8KaYUIiX2kW99IEqPWOI9XS+QiwIVosp97nECN5+AfKVgnIwUf\/ygQPQKSA42IC\/oJCtFEYlzImJrFzJLnMuotdFtUzA3GX9SYi8gG22Ma5QYxw\/PNI2ei73Qxexp3edyo5R5ynbSprerHjR\/XS28+wghBXyPXXkwO\/uIKAfONKE7vvjXRiUc8HwpqoWFVe3lKOb1efY6zkmSkqhS\/\/2ULKnvHJIVm6UH423U7k3BHqEwtZhUBIVPqjXaAvZ+x04TXLsoanV0RJwvLxrPUomMbVp\/YuiKrM202KbvQ4cOWsgPJ5jC\/x1ZhnTdaJ5O5ePVdY4hb27HwbalmJnJcQzAN6PBRX3K+ga9UqZHbbivFp4giVa+gAh\/jzPOAGDo5kQ7rw40gDG4c1HJ3CzLzNf2iO3wD670id7w+HttWO+XNPLOKEL9erxlJGkL6G2Tm2F33zsOfZYNvzqLpL1\/OYfF9gJ0SyRw4DLiTbwvSuNDhNHHFc39lEQC73XWu8jVrvQJCn5tvvg2FCQ2mLx8jmryompTJza\/6yuc77FRYYYfMJdkn1CBjvaBW7cr\/CtlrgYrsgqo8Cy8AJiKH\/p6WIDWDQHXTyY0dM\/r+oR2pq\/cbIEAxM6Yn\/ynPoeNEqCC3O4="
 }
